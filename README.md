@@ -18,6 +18,15 @@ This repository is realization advanced concepts regarding to trading strategies
 
 In folders are material and code examples for different strategies and approaches.
 
+As a part of this repository there is sub Reddit to gather the community.
+
+
+
+<p>&nbsp;</p>
+
+- Link to sub Reddit 
+    - https://www.reddit.com/r/AdvancedTrading/
+
 <p>&nbsp;</p>
 
 # Resources
