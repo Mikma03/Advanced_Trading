@@ -253,3 +253,8 @@ https://learning.oreilly.com/library/view/time-series-algorithms/9781484289785/
 https://learning.oreilly.com/library/view/forecasting-time-series/9781800568532/
 
 https://learning.oreilly.com/library/view/reinforcement-learning-for/9781484288351/
+
+https://www.mdpi.com/journal/ijfs
+
+
+https://www.amazon.com/Numerical-Methods-Computational-Finance-Differential/dp/1119719674
