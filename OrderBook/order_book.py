@@ -175,6 +175,7 @@ class OrderDataFactory:
 
         entry_json_order_data = InitialData.read_json_from_file(json_data)
 
+
         order_mapping: dict[str, Callable[..., Union[IcebergOrder, LimitOrder]]] = {
             "iceberg": IcebergOrder,
             "limit": LimitOrder,
@@ -486,15 +487,17 @@ class Runner:
         """
 
         order_data_factory = OrderDataFactory()
+        
         buy_orders, sell_orders = order_data_factory.create_order_objects_from_json(
             json_file
         )
 
-        Runner.display_initial_order_book(buy_orders, sell_orders)
+        # Runner.display_initial_order_book(buy_orders, sell_orders)
+
         sorted_buy_orders, sorted_sell_orders = order_data_factory.sort_orders(
             buy_orders, sell_orders
         )
-        Runner.display_sorted_order_book(sorted_buy_orders, sorted_sell_orders)
+        # Runner.display_sorted_order_book(sorted_buy_orders, sorted_sell_orders)
 
         cleaned_buy_orders, cleaned_sell_orders = Runner.process_order_matching(
             buy_orders, sell_orders, order_data_factory
