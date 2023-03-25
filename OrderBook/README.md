@@ -1,10 +1,11 @@
 <!-- TOC -->
 
-- [How to run `order_book.py` script](#how-to-run-order_bookpy-script)
-- [Software requirements](#software-requirements)
-- [Example of input data](#example-of-input-data)
-- [More business logic and explanation](#more-business-logic-and-explanation)
-- [Additional thoughts - optimization](#additional-thoughts---optimization)
+    - [How to run order_book.py script](#how-to-run-order_bookpy-script)
+    - [Software requirements](#software-requirements)
+    - [Example of input data](#example-of-input-data)
+    - [More business logic and explanation](#more-business-logic-and-explanation)
+    - [Additional thoughts - optimization](#additional-thoughts---optimization)
+- [TODO](#todo)
 
 <!-- /TOC -->
 
@@ -56,3 +57,7 @@ From efficient data sturucture perspective it seems to be good idea to use heapq
 Nevertheless in `cons.md` file has been written some optimization steps that could be perfect fit for tasj simillar to this one.
 
 As PoC of using heapq one function has been developed: `alternative.md`. But that was not tested in end-to-end solution.
+
+# TODO
+
+- formatting: to be in line with description of the task
