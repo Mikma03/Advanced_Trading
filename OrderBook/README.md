@@ -6,6 +6,7 @@
 - [More business logic and explanation](#more-business-logic-and-explanation)
 - [Additional thoughts - optimization](#additional-thoughts---optimization)
 - [TODO](#todo)
+- [Resources](#resources)
 
 <!-- /TOC -->
 
@@ -61,3 +62,9 @@ As PoC of using heapq one function has been developed: `alternative.md`. But tha
 ## TODO
 
 - formatting: to be in line with description of the task
+
+## Resources
+
+Reinforcement Learning and OrderBook
+
+- https://stanford.edu/~ashlearn/RLForFinanceBook/chapter9.pdf
