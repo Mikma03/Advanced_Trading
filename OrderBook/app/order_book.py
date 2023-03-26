@@ -1,4 +1,4 @@
-from typing import Literal, Union, List, Callable, Tuple
+from typing import Literal, Union, List, Callable
 import json
 from pathlib import Path
 from functools import total_ordering
@@ -183,7 +183,6 @@ class OrderDataFactory:
         sell_orders = {}
 
         entry_json_order_data = InitialData.read_json_from_file(json_data)
-
 
         order_mapping: dict[str, Callable[..., Union[IcebergOrder, LimitOrder]]] = {
             "iceberg": IcebergOrder,
@@ -496,7 +495,7 @@ class Runner:
         """
 
         order_data_factory = OrderDataFactory()
-        
+
         buy_orders, sell_orders = order_data_factory.create_order_objects_from_json(
             json_file
         )

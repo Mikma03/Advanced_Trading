@@ -9,6 +9,7 @@
 - [Additional thoughts - optimization](#additional-thoughts---optimization)
 - [Additional resources](#additional-resources)
 - [TODO](#todo)
+- [Other for developers](#other-for-developers)
 
 <!-- /TOC -->
 
@@ -118,3 +119,15 @@ Reinforcement Learning and OrderBook example and mathematical proof.
 Formatting: to be in line with description of the task. As it is not implemented yet.
 
 - Final OrderBook status and transactions
+
+## Other for developers
+
+- Install `pre-commit` tool by running `pip install pre-commit`.
+
+- Create a `.pre-commit-config.yaml` file in the root directory of the project.
+
+- Define the pre-commit hooks you want to use in the file, using the appropriate syntax.
+
+- Run `pre-commit install` to install the hooks specified in the configuration file to the project's Git repository.
+
+- Run `pre-commit run` to execute the hooks on the files that are about to be committed.
