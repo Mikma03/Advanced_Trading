@@ -89,6 +89,8 @@ This way of building app has almost the same functionality as standard approach.
 
 - pytest (https://pypi.org/project/pytest/) need to be installed
 
+- Flask (https://pypi.org/project/Flask/) need to be installed
+
 ## Example of input data
 
 ---
