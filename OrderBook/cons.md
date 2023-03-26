@@ -1,3 +1,13 @@
+
+<!-- TOC -->
+
+- [**Reading JSON data:**](#reading-json-data)
+- [**Order matching:**](#order-matching)
+- [**Memory usage:**](#memory-usage)
+- [**Parallel processing:**](#parallel-processing)
+
+<!-- /TOC -->
+
 # **Reading JSON data:**
 
 The read_json_from_file function in the InitialData class reads the entire JSON data into memory using json.load. If the JSON file is very large, it could consume a significant amount of memory. We might consider using a streaming JSON parser like ijson to process the JSON data in chunks, which would be more memory-efficient.

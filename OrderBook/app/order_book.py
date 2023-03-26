@@ -3,6 +3,15 @@ import json
 from pathlib import Path
 from functools import total_ordering
 from dataclasses import dataclass
+import logging
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+    filename="basic_logs.log",
+)
 
 
 class InitialData:
@@ -21,7 +30,7 @@ class InitialData:
         Returns:
             List[dict]: A list of dictionaries containing the JSON data.
         """
-
+        logging.info("Reading JSON data from file")
         with Path(initial_data).open("r") as test_data:
             data = json.load(test_data)
         return data

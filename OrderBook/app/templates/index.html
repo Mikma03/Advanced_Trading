@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Book</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        form {
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        label {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            resize: none;
+        }
+
+        button[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            font-size: 18px;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #0069d9;
+        }
+
+        h2 {
+            margin: 20px;
+            font-size: 24px;
+        }
+
+        pre {
+            margin: 0;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f7f7f7;
+            overflow: auto;
+            white-space: pre-wrap;
+            max-height: 200px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Order Book</h1>
+    </header>
+    <form id="order-form">
+        <label for="input-data">Paste JSON data:</label>
+        <textarea id="input-data"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <h2>Output results:</h2>
+    <pre id="output"></pre>
+
+    <script>
+        // document.getElementById('order-form').addEventListener('submit', async (event) => {
+        //     event.preventDefault();
+        //     const inputDataElement = document.getElementById('input-data');
+        //     const input_data = JSON.parse(inputDataElement.value);
+
+        //     const response = await fetch('/api/execute', {
+        //         method: 'POST',
+        //         headers: {
+        //             'Content-Type': 'application/json'
+        //         },
+        //         body: JSON.stringify({ input_data })
+        //     });
+
+
+        //     const outputData = await response.json();
+        //     console.log(outputData);
+        //     document.getElementById('output').textContent = JSON.stringify(outputData.output, null, 2);
+
+        // });
+
+        document.getElementById('order-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const inputDataElement = document.getElementById('input-data');
+            const inputText = inputDataElement.value.trim();
+
+            if (inputText === 'clear') {
+                const response = await fetch('/clear', {
+                    method: 'POST'
+                });
+                document.getElementById('output').textContent = 'data.json file cleared.';
+            } else {
+                try {
+                    const input_data = JSON.parse(inputText);
+
+                    const response = await fetch('/api/execute', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ input_data })
+                    });
+
+                    const outputData = await response.json();
+                    console.log(outputData);
+                    document.getElementById('output').textContent = JSON.stringify(outputData.output, null, 2);
+                } catch (error) {
+                    console.error('Error:', error);
+                    document.getElementById('output').textContent = 'Invalid JSON input. Please check your input data.';
+                }
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>
