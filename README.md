@@ -1,6 +1,10 @@
 <!-- TOC -->
 
 - [Introduction](#introduction)
+- [Description of repository structure](#description-of-repository-structure)
+  - [Ideas\_papaers](#ideas_papaers)
+  - [OrderBook](#orderbook)
+  - [Resources](#resources)
 
 # Introduction
 
@@ -11,3 +15,17 @@ Whether you're a seasoned professional or a newcomer to the field, this reposito
 This repository will cover a wide range of strategies and approaches, including quantitative trading, algorithmic trading, statistical arbitrage, and more. Each folder will include detailed explanations and practical examples, allowing you to dive deep into the topics that interest you the most.
 
 We are committed to providing high-quality content that is accessible and engaging for all levels of experience.
+
+# Description of repository structure
+
+## Ideas_papaers
+
+The Ideas_papers folder contains a curated collection of research papers focused on advanced trading strategies and financial engineering techniques. Topics covered include deep learning, prediction of stock returns, and volatility models, among others.
+
+## OrderBook
+
+The OrderBook folder contains a Python-based order book simulator and associated code, which allows users to practice and explore different order book strategies. This folder includes detailed documentation, tests, and an app for visualizing order book data.
+
+## Resources
+
+The Resources folder offers a comprehensive collection of links to resources like: books, scientific journals, websites, YouTube channels, and other resources focused on trading strategies and financial engineering. This folder is designed to serve as a one-stop-shop for industry professionals and enthusiasts seeking to broaden their knowledge and stay up-to-date with the latest trends and developments.
