@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Description of repository structure](#description-of-repository-structure)
   - [Ideas\_papaers](#ideas_papaers)
+  - [ML-for-TA](#ml-for-ta)
   - [OrderBook](#orderbook)
   - [Resources](#resources)
 
@@ -21,6 +22,10 @@ We are committed to providing high-quality content that is accessible and engagi
 ## Ideas_papaers
 
 The Ideas_papers folder contains a curated collection of research papers focused on advanced trading strategies and financial engineering techniques. Topics covered include deep learning, prediction of stock returns, and volatility models, among others.
+
+## ML-for-TA
+
+This folder is dedicated to the implementation of a hybrid system that combines technical analysis and machine learning algorithms to predict stock market behavior. The Technical Analysis folder contains a collection of resources, including code examples and additional tools, to facilitate the implementation of this innovative approach. Additionally, this repository provides a comprehensive overview of the results obtained through the implementation of this hybrid system.
 
 ## OrderBook
 

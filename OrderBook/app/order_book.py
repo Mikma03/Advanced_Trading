@@ -549,44 +549,7 @@ class Runner:
         print("END OF SORTED DATA")
         print("--------------------")
 
-    @staticmethod
-    def process_order_matching(buy_orders, sell_orders, order_data_factory):
-        """
-        Process order matching, clear the order book, and return the cleaned orders.
-
-        Args:
-            buy_orders (dict): A dictionary containing buy orders.
-            sell_orders (dict): A dictionary containing sell orders.
-            order_data_factory (OrderDataFactory): An instance of OrderDataFactory.
-
-        Returns:
-            tuple: A tuple containing cleaned_buy_orders and cleaned_sell_orders.
-        """
-
-        while True:
-            sorted_buy_orders, sorted_sell_orders = order_data_factory.sort_orders(
-                buy_orders, sell_orders
-            )
-
-            matched_orders = OrderBook.match_orders(
-                sorted_buy_orders, sorted_sell_orders
-            )
-
-            if not matched_orders:
-                cleaned_buy_orders, cleaned_sell_orders = OrderBook.clear_order_book(
-                    sorted_buy_orders, sorted_sell_orders
-                )
-                break
-
-            matched_orders_with_quantity = Executor.display_matched_orders_and_quantity(
-                matched_orders
-            )
-
-            cleaned_buy_orders, cleaned_sell_orders = OrderBook.clear_order_book(
-                sorted_buy_orders, sorted_sell_orders
-            )
-
-        return cleaned_buy_orders, cleaned_sell_orders
+ 
 
     @staticmethod
     def display_final_order_book(cleaned_buy_orders, cleaned_sell_orders):
