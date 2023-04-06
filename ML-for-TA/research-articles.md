@@ -16,3 +16,7 @@
 
 - Feature selection and deep neural networks for stock price direction forecasting using technical analysis indicators
   - https://www.sciencedirect.com/science/article/pii/S266682702100030X
+
+- A Deep Neural-Network Based Stock Trading System Based on Evolutionary Optimized Technical Analysis Parameters
+  - https://www.sciencedirect.com/science/article/pii/S1877050917318252
+
