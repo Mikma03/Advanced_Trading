@@ -15,8 +15,12 @@
   - https://www.mdpi.com/2227-9091/10/12/225
 
 - Feature selection and deep neural networks for stock price direction forecasting using technical analysis indicators
+
   - https://www.sciencedirect.com/science/article/pii/S266682702100030X
 
 - A Deep Neural-Network Based Stock Trading System Based on Evolutionary Optimized Technical Analysis Parameters
+
   - https://www.sciencedirect.com/science/article/pii/S1877050917318252
 
+- Forecasting Stock Prices Using a Hybrid Deep Learning Model Integrating Attention Mechanism, Multi-Layer Perceptron, and Bidirectional Long-Short Term Memory Neural Network
+  - https://ieeexplore.ieee.org/document/9122554
