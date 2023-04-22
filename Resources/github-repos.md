@@ -24,3 +24,7 @@
 # Stochastic processes in Python
 
 - https://github.com/crflynn/stochastic
+
+# FinRL: Financial Reinforcement Learning
+
+- https://github.com/AI4Finance-Foundation/FinRL
