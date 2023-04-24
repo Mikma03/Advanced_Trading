@@ -50,3 +50,15 @@
 
 - Reddit: $400k+ profit, 20,000% account growth in 1.5 years daytrading
   - https://www.reddit.com/r/Daytrading/comments/ru9gin/400k_profit_20000_account_growth_in_15_years/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+- Can You Hear the Shape of a Market? Geometric Arbitrage and Spectral Theory
+  - https://www.researchgate.net/publication/354914908_Can_You_Hear_the_Shape_of_a_Market_Geometric_Arbitrage_and_Spectral_Theory
+
+
+# Papers with code
+
+- https://paperswithcode.com/task/algorithmic-trading
+
+# Springer articles
+
+- https://link.springer.com/search?query=Reinforcement+Learning+Finance&facet-content-type=%22Article%22

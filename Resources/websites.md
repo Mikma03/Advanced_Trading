@@ -6,3 +6,6 @@
 
 - PyQuant
   - https://pyquantnews.com/
+
+- Quant Finance Research Newsletter
+  - https://oxford-man.ox.ac.uk/quant-finance-research-newsletter/

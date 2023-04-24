@@ -77,6 +77,9 @@
 
 ## Reinforcement Learning: General
 
+- Reinforcement Learning: An Introduction: Theory
+  - http://incompleteideas.net/book/the-book-2nd.html
+
 - Mastering Reinforcement Learning with Python
 
   - https://learning.oreilly.com/library/view/mastering-reinforcement-learning/9781838644147/

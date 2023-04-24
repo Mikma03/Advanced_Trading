@@ -28,3 +28,7 @@
 # FinRL: Financial Reinforcement Learning
 
 - https://github.com/AI4Finance-Foundation/FinRL
+
+# TF-finance
+
+- https://github.com/google/tf-quant-finance
