@@ -1,6 +1,7 @@
 <!-- TOC -->
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
 - [Description of repository structure](#description-of-repository-structure)
   - [Gre-Systems-Model](#gre-systems-model)
   - [Ideas\_papaers](#ideas_papaers)
@@ -18,6 +19,12 @@ Whether you're a seasoned professional or a newcomer to the field, this reposito
 This repository will cover a wide range of strategies and approaches, including quantitative trading, algorithmic trading, statistical arbitrage, and more. Each folder will include detailed explanations and practical examples, allowing you to dive deep into the topics that interest you the most.
 
 We are committed to providing high-quality content that is accessible and engaging for all levels of experience.
+
+# Additional resources
+
+
+awesome-quant
+> https://github.com/wilsonfreitas/awesome-quant
 
 # Description of repository structure
 
