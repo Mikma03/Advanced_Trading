@@ -42,3 +42,8 @@
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [DONE]
   - https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=d_pd_sbs_sccl_4_2/142-0279501-8112949?pd_rd_w=EyaLI&content-id=amzn1.sym.3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=H0XKEEXBYGS9C5EJADQV&pd_rd_wg=gRViG&pd_rd_r=be83a474-5da0-43b3-9bed-731a29a19381&pd_rd_i=1098125975&psc=1
+
+- An Introduction to Statistical Learning
+  - https://www.statlearning.com/
+  - https://hastie.su.domains/ISLP/ISLP_website.pdf
+  - https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/3031387465/
