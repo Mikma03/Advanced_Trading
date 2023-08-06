@@ -51,53 +51,70 @@ The Resources folder offers a comprehensive collection of links to resources lik
 
 # Files structure
 
+    .
+    ├── Architecture-design
+    │   └── aws-architecture-examples
+    ├── Data
+    │   └── data-sources.md
     ├── Grey-Systems-Model
-    │   └── research-ideas.md
-    ├── Ideas_papaers_PDF
-    │   ├── A deep neural network perspective on pricing and calibration in (rough) volatility models.pdf
-    │   ├── An Ensemble of LSTM Neural Networks for High-Frequency Stock Market Classification.pdf
-    │   ├── Deep Hedging under Rough Volatility.pdf
-    │   ├── Deep Learning in Finance Prediction of Stock Returns with Long Short-Term Memory Networks.pdf
-    │   ├── Deeply Learning Derivatives.pdf
-    │   ├── Prediction of Stock Market using Stochastic.pdf
-    │   └── Short‑term stock market price trend prediction using a comprehensive deep learning system.pdf
+    │   └── research-ideas.md
+    ├── Ideas-papers-PDF
+    │   ├── A deep neural network perspective on pricing and calibration in (rough) volatility models.pdf
+    │   ├── An Ensemble of LSTM Neural Networks for High-Frequency Stock Market Classification.pdf
+    │   ├── Deep Hedging under Rough Volatility.pdf
+    │   ├── Deep Learning in Finance Prediction of Stock Returns with Long Short-Term Memory Networks.pdf
+    │   ├── Deeply Learning Derivatives.pdf
+    │   ├── Prediction of Stock Market using Stochastic.pdf
+    │   └── Short‑term stock market price trend prediction using a comprehensive deep learning system.pdf
     ├── LICENSE
     ├── ML-for-TA
-    │   ├── README.MD
-    │   └── research-articles.md
+    │   ├── README.MD
+    │   └── research-articles.md
+    ├── Markov-SM&LTR
+    │   ├── Learning-to-Rank-with-Self-Attention.pdf
+    │   ├── Markov-SM-Springer.pdf
+    │   ├── paper-about-model
+    │   ├── readme.md
+    │   └── resources.md
     ├── OrderBook
-    │   ├── Dockerfile
-    │   ├── README.md
-    │   ├── __init__.py
-    │   ├── alternative_match_orders.py
-    │   ├── app
-    │   │   ├── __init__.py
-    │   │   ├── app.py
-    │   │   ├── basic_logs.log
-    │   │   ├── data.json
-    │   │   ├── history.json
-    │   │   ├── order_book.py
-    │   │   ├── process_records.zsh
-    │   │   ├── requirements.txt
-    │   │   ├── templates
-    │   │   │   └── index.html
-    │   │   └── utils.py
-    │   ├── cons.md
-    │   ├── general_description.md
-    │   ├── test_data.json
-    │   └── tests
-    │       ├── __init__.py
-    │       ├── test_generic.py
-    │       └── test_orderbook.py
+    │   ├── Dockerfile
+    │   ├── README.md
+    │   ├── __init__.py
+    │   ├── alternative_match_orders.py
+    │   ├── app
+    │   │   ├── __init__.py
+    │   │   ├── app.py
+    │   │   ├── basic_logs.log
+    │   │   ├── data.json
+    │   │   ├── history.json
+    │   │   ├── order_book.py
+    │   │   ├── process_records.zsh
+    │   │   ├── requirements.txt
+    │   │   ├── templates
+    │   │   │   └── index.html
+    │   │   └── utils.py
+    │   ├── cons.md
+    │   ├── general_description.md
+    │   ├── test_data.json
+    │   └── tests
+    │       ├── __init__.py
+    │       ├── test_generic.py
+    │       └── test_orderbook.py
     ├── README.md
     ├── Resources
-    │   ├── books.md
-    │   ├── data-sources.md
-    │   ├── github-repos.md
-    │   ├── pure-mathematics.md
-    │   ├── quant-economics.md
-    │   ├── research-articles.md
-    │   ├── scientific-journals.md
-    │   ├── websites.md
-    │   └── youtube-channels.md
-    └── hf-list.md
+    │   ├── foundation-data-science.md
+    │   ├── github-repos.md
+    │   ├── pure-mathematics.md
+    │   ├── quant-economics.md
+    │   ├── quant-finance-books.md
+    │   ├── research-articles.md
+    │   ├── scientific-journals.md
+    │   ├── websites.md
+    │   └── youtube-channels.md
+    ├── Time-Series
+    │   └── resources-books.md
+    ├── hf-list.md
+    ├── path.md
+    └── quant-python-libs.md
+
+    14 directories, 51 files
