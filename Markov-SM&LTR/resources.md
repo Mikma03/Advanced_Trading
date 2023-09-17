@@ -40,7 +40,10 @@ Scientific articles related to Learning to Rank:
 ## Papers
 
 - Markov Switching
-  - https://arxiv.org/abs/2002.03598#:~:text=Markov%20switching%20models%20are%20a,stochastic%20process%20with%20limited%20memory.
+  - https://arxiv.org/abs/2002.03598#:~:text=Markov%20switching%20models%20are%20a,stochastic%20process%20with%20limited%20memory
+
+
+  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048
 
 ## Software
 
