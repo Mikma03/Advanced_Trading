@@ -1,6 +1,3 @@
-- Applied Time Series Analysis and Forecasting with Python
-  - https://www.amazon.com/Applied-Analysis-Forecasting-Statistics-Computing/dp/3031135830/ref=sr_1_13?keywords=time+series+python&qid=1687861299&sprefix=time+series+p%2Caps%2C231&sr=8-13
-
 - Modern Time Series Forecasting with Python
   - https://www.amazon.com/Modern-Time-Forecasting-Python-industry-ready/dp/1803246804/ref=sr_1_1_sspa?keywords=time+series+python&qid=1687861299&sprefix=time+series+p%2Caps%2C231&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
@@ -13,3 +10,5 @@
 - Forecasting Time Series Data with Facebook Prophet
   - https://www.amazon.pl/Forecasting-Time-Data-Prophet-forecasting-dp-1837630410/dp/1837630410/ref=dp_ob_title_bk
 
+- Time Series Forecasting in Python
+  - https://www.amazon.com/Time-Forecasting-Python-Marco-Peixeiro/dp/161729988X/ref=sr_1_22_sspa?crid=ZFVAFP84PX1P&keywords=Reinforcement+Learning+Python&qid=1697146788&sprefix=reinforcement+learning+python%2Caps%2C200&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1

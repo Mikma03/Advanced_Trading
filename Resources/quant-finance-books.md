@@ -1,8 +1,8 @@
 <!-- TOC -->
 
-- [Books fo quant trading and beyond](#books-fo-quant-trading-and-beyond)
-  - [Pure mathematics](#pure-mathematics)
-  - [Deep Learning](#deep-learning)
+- [Books for quant trading and beyond](#books-for-quant-trading-and-beyond)
+  - [Pure mathematics and probability](#pure-mathematics-and-probability)
+  - [Deep Learning: General](#deep-learning-general)
   - [Machine Learning](#machine-learning)
   - [Python \& quant-finance](#python--quant-finance)
   - [Reinforcement Learning in Finance](#reinforcement-learning-in-finance)
@@ -12,9 +12,9 @@
 
 <!-- /TOC -->
 
-# Books fo quant trading and beyond
+# Books for quant trading and beyond
 
-## Pure mathematics
+## Pure mathematics and probability
 
 - Mathematical Modeling and Computation in Finance
 
@@ -26,7 +26,7 @@
 - Springer Finance: Book series
   - https://www.springer.com/series/3674/books
 
-## Deep Learning
+## Deep Learning: General
 
 - Dive into Deep Learning
 
@@ -55,6 +55,18 @@
 
 - Machine Learning for Financial Risk Management with Python
   - https://learning.oreilly.com/library/view/machine-learning-for/9781492085249/
+
+- Machine Learning for Factor Investing
+  - https://www.amazon.com/Machine-Learning-Investing-Financial-Mathematics/dp/0367639726/ref=sr_1_3?crid=16RQIYJ32KDSJ&keywords=Tony+Guida&qid=1699969822&sprefix=tony+guida%2Caps%2C199&sr=8-3
+
+- Probabilistic Machine Learning for Finance and Investing
+  - https://www.amazon.com/Probabilistic-Machine-Learning-Finance-Investing/dp/1492097675/ref=sr_1_4?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-4
+
+- Quantitative Asset Management
+  - https://www.amazon.com/Quantitative-Asset-Management-Investing-Institutional/dp/1264258445/ref=sr_1_2_sspa?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+- Advances in Financial Machine Learning
+  - https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1699969989&sr=8-10
 
 ## Python & quant-finance
 

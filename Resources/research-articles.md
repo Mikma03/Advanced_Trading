@@ -49,11 +49,11 @@
   - https://www.researchgate.net/publication/324802031_Algorithmic_Financial_Trading_with_Deep_Convolutional_Neural_Networks_Time_Series_to_Image_Conversion_Approach
 
 - Reddit: $400k+ profit, 20,000% account growth in 1.5 years daytrading
+
   - https://www.reddit.com/r/Daytrading/comments/ru9gin/400k_profit_20000_account_growth_in_15_years/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
 - Can You Hear the Shape of a Market? Geometric Arbitrage and Spectral Theory
   - https://www.researchgate.net/publication/354914908_Can_You_Hear_the_Shape_of_a_Market_Geometric_Arbitrage_and_Spectral_Theory
-
 
 # Papers with code
 
@@ -62,3 +62,13 @@
 # Springer articles
 
 - https://link.springer.com/search?query=Reinforcement+Learning+Finance&facet-content-type=%22Article%22
+
+# Medium or other articles
+
+- https://medium.datadriveninvestor.com/fingpt-i-why-we-built-the-first-open-source-large-language-model-for-finance-c01b5517ca
+
+- https://medium.datadriveninvestor.com/introducing-fingpt-forecaster-the-future-of-robo-advisory-services-50add34e3d3c
+
+- https://medium.com/@nasdag/tide-revolutionizing-long-term-time-series-forecasting-with-simple-mlp-architectures-21259cbe575b
+
+- https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a

@@ -20,7 +20,6 @@
   - [Markov-switching-models](#markov-switching-models)
 
 <!-- /TOC -->
-
 # Components and theory
 
 Great tool to find related scientific articles is Litmaps: https://app.litmaps.com/
@@ -42,8 +41,16 @@ Scientific articles related to Learning to Rank:
 - Markov Switching
   - https://arxiv.org/abs/2002.03598#:~:text=Markov%20switching%20models%20are%20a,stochastic%20process%20with%20limited%20memory
 
-
+- Identifying Patterns in Financial Markets: Extending the Statistical Jump Model for Regime Identification
   - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048
+
+
+- Few-Shot Learning Patterns in Financial Time-Series for Trend-Following Strategies
+  - https://arxiv.org/abs/2310.10500
+
+- Non-parametric online market regime detection and regime clustering for multidimensional and path-dependent data structures
+  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4493344
+
 
 ## Software
 

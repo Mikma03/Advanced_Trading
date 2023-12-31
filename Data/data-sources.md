@@ -1,3 +1,7 @@
+# OpenBB Terminal
+
+- https://my.openbb.co/app/terminal
+
 # Financial data resources and APIs
 
 - Xypher - estimated max cost 15 USD/month
@@ -100,3 +104,7 @@ https://lnkd.in/gqfEa3Qh
 End-of-day stock price data API that emphasizes redundancy, transparency, and completeness
 
 https://lnkd.in/gPib_ZMv
+
+# Refinitiv
+
+- https://developers.lseg.com/en/article-catalog/article/automating-technical-analysis-and-strategy-backtesting-with-pyth

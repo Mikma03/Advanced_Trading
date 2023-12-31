@@ -18,3 +18,6 @@
 
 - TradingLab
   - https://www.youtube.com/channel/UCCbv0qixG-cyokxEY3kELtg
+
+- Daniel Palomar
+  - https://www.youtube.com/@danielpalomar/videos
