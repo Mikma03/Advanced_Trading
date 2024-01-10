@@ -1,0 +1,454 @@
+{
+  "AnalysisDate": "2024-01-10",
+  "ProjectNmae": "Project Name",
+  "Variables": {
+    "TransparentTeam": {
+      "overallScore": 0,
+      "criteria": {
+        "LinkToPublicProfilesAndExperience": {
+          "score": 0,
+          "description": "Link to public profiles and years of experience",
+          "teamMembers": [
+            {
+              "name": "Member Name",
+              "profileLink": "https://www.example.com/profile",
+              "yearsOfExperience": 5,
+              "individualScore": 0,
+              "comments": "Optional comments about the member"
+            }
+          ],
+          "details": {
+            "ProfileVisibility": "Check if profile links are publicly accessible",
+            "ExperienceValidation": "Verify the stated years of experience"
+          }
+        },
+        "ExperienceInBlockchain": {
+          "score": 0,
+          "description": "Experience in blockchain and relevant industries",
+          "details": {
+            "IndustryRelevance": "Assess relevance of experience in blockchain and related industries",
+            "DepthOfExperience": "Evaluate the depth and complexity of their experience"
+          }
+        },
+        "PubliclyVerifiableTrackRecords": {
+          "score": 0,
+          "description": "Publicly verifiable track records",
+          "details": {
+            "ProfessionalAccomplishments": "Review documented professional achievements",
+            "Credibility": "Assess the credibility of their track records"
+          }
+        },
+        "EaseOfFindingTeamMembers": {
+          "score": 0,
+          "description": "Team members are easy to find on the Internet",
+          "details": {
+            "OnlinePresence": "Evaluate the strength and reach of their online presence",
+            "Accessibility": "Assess how easily their information can be found online"
+          }
+        },
+        "VisibilityOfWorkingMembers": {
+          "score": 0,
+          "description": "You can see who is working on a given project",
+          "details": {
+            "ProjectEngagement": "Check visible engagement of team members with the project",
+            "RoleClarity": "Evaluate clarity of each member's role in the project"
+          }
+        },
+        "QualityOfSocialMedia": {
+          "score": 0,
+          "description": "Check quality of social media of the team (e.g., GitHub, LinkedIn)",
+          "details": {
+            "Professionalism": "Assess the professionalism of their social media profiles",
+            "ActivityLevel": "Evaluate the level of activity and engagement on relevant platforms"
+          }
+        }
+      }
+    },
+    "GoodCodeRepository": {
+      "overallScore": 0,
+      "criteria": {
+        "CodeQualityAndDocumentation": {
+          "score": 0,
+          "description": "Code quality and documentation",
+          "details": {
+            "CodeConsistency": "Check for consistency in coding standards",
+            "Readability": "Assess if the code is well-organized",
+            "Commenting": "Evaluate the presence and quality of comments",
+            "DocumentationQuality": "Review the comprehensiveness and clarity of documentation"
+          }
+        },
+        "ActiveAndResponsiveIssueResolution": {
+          "score": 0,
+          "description": "Active and responsive issue resolution",
+          "details": {
+            "IssueResponseTime": "Measure response time to issues",
+            "ResolutionRate": "Analyze rate of issue resolution",
+            "CommunityEngagement": "Assess team interaction with the community"
+          }
+        },
+        "LongTermRepository": {
+          "score": 0,
+          "description": "Preferably a long-term repository",
+          "details": {
+            "CommitHistory": "Evaluate the age and commit frequency",
+            "VersionControlPractices": "Check use of branches, merges, and tags"
+          }
+        },
+        "LargeNumberOfCommits": {
+          "score": 0,
+          "description": "A large number of commits",
+          "details": {
+            "CommitFrequency": "Assess frequency of commits",
+            "ContributorActivity": "Look at the number of active contributors"
+          }
+        },
+        "RepositoryRatingAndPopularity": {
+          "score": 0,
+          "description": "The repository is rated and relatively popular",
+          "details": {
+            "StarRatingsForks": "Check number of stars and forks",
+            "ExternalReferences": "Look for mentions in external sources"
+          }
+        },
+        "VisibilityOfCodeContributors": {
+          "score": 0,
+          "description": "You can see who is working on the code",
+          "details": {
+            "ContributorProfiles": "Ensure profiles of contributors are visible",
+            "ContributionTransparency": "Check for clear records of contributions"
+          }
+        }
+      }
+    },
+    "ActiveRecruitment": {
+      "overallScore": 0,
+      "description": "Active recruitment to the team",
+      "details": {
+        "RecruitmentEfforts": {
+          "score": 0,
+          "description": "Analyze the efforts made for active recruitment",
+          "criteria": {
+            "JobPostings": "Evaluate the frequency and quality of job postings",
+            "OutreachEfforts": "Assess outreach efforts to attract potential team members"
+          }
+        },
+        "GrowthOrientation": {
+          "score": 0,
+          "description": "Assess the team's orientation towards growth and expansion",
+          "criteria": {
+            "TeamExpansionPlans": "Review any publicly available information about plans for team expansion",
+            "EngagementWithProfessionalNetworks": "Evaluate the team’s engagement with professional networks for recruitment"
+          }
+        }
+      }
+    },
+    "ShareStructure": {
+      "overallScore": 0,
+      "criteria": {
+        "AntiWhaleMechanisms": {
+          "score": 0,
+          "description": "Anti-whale mechanisms to prevent market manipulation",
+          "details": {
+            "MechanismImplementation": "Review the implementation of mechanisms to prevent large holders from manipulating the market",
+            "Effectiveness": "Evaluate the effectiveness of these mechanisms in maintaining market stability"
+          }
+        },
+        "TopPortfolioDistribution": {
+          "score": 0,
+          "description": "The top 10% of portfolios should not hold the vast majority",
+          "details": {
+            "DistributionAnalysis": "Analyze the distribution of token holdings to ensure no small group holds a majority",
+            "MarketImpact": "Assess the potential market impact of the top holders' actions"
+          }
+        },
+        "TokenAvailabilityForTrading": {
+          "score": 0,
+          "description": "Most tokens are available for trading",
+          "details": {
+            "MarketLiquidity": "Evaluate the liquidity of tokens in the market",
+            "TokenLockupAndRelease": "Assess the lockup periods and release schedules for tokens, if applicable"
+          }
+        }
+      }
+    },
+    "ExternalFinancing": {
+      "overallScore": 0,
+      "criteria": {
+        "DiversityOfInvestors": {
+          "score": 0,
+          "description": "Diversity of investors (not overly reliant on one)",
+          "details": {
+            "InvestorTypeVariety": "Assess the variety in types of investors (e.g., VCs, angel investors, institutional)",
+            "DependencyOnMajorInvestors": "Evaluate the project's financial dependency on major investors"
+          }
+        },
+        "InvestorTrackRecord": {
+          "score": 0,
+          "description": "Track record of investors in supporting successful projects",
+          "details": {
+            "InvestorSuccessHistory": "Review the history of investors in supporting successful blockchain projects",
+            "StrategicAlignment": "Assess the alignment between the investors' track record and the project's goals"
+          }
+        },
+        "CapitalRaisingFromVC": {
+          "score": 0,
+          "description": "If the project raised capital from VC, it is a plus",
+          "details": {
+            "VCInvolvementLevel": "Evaluate the level and nature of venture capital involvement",
+            "ImpactOnProject": "Assess the impact of VC funding on the project's development and strategy"
+          }
+        },
+        "SignificantPartnerships": {
+          "score": 0,
+          "description": "If the project has large and significant partners, it is a plus",
+          "details": {
+            "PartnershipSynergy": "Review the synergy and mutual benefits of the partnerships",
+            "ContributionToGrowth": "Evaluate how these partnerships contribute to the project's growth and stability"
+          }
+        }
+      }
+    },
+    "MarketPotentialAndProductViability": {
+      "overallScore": 0,
+      "criteria": {
+        "ClearUseCaseAndDemand": {
+          "score": 0,
+          "description": "Clear use case and demand for the product or service",
+          "details": {
+            "MarketNeed": "Evaluate the market need for the product or service",
+            "UseCaseSpecificity": "Assess how specifically the product or service addresses a particular problem or need"
+          }
+        },
+        "CompetitiveAnalysis": {
+          "score": 0,
+          "description": "Competitive analysis compared to similar projects",
+          "details": {
+            "MarketPosition": "Analyze the project's position relative to its competitors",
+            "UniqueSellingProposition": "Evaluate what sets the project apart from its competitors"
+          }
+        }
+      }
+    },
+    "TechnologyAndInnovation": {
+      "overallScore": 0,
+      "criteria": {
+        "UniqueFeaturesOrTechnologicalAdvancements": {
+          "score": 0,
+          "description": "Unique features or technological advancements",
+          "details": {
+            "Innovativeness": "Assess the novelty and uniqueness of the technology",
+            "TechnologicalEdge": "Evaluate how the technology provides an edge over existing solutions"
+          }
+        },
+        "Scalability": {
+          "score": 0,
+          "description": "Scalability of the technology",
+          "details": {
+            "ScalabilityPotential": "Analyze the potential of the technology to scale effectively",
+            "PerformanceUnderLoad": "Evaluate how the technology performs under increased load or demand"
+          }
+        },
+        "InteroperabilityWithOtherBlockchains": {
+          "score": 0,
+          "description": "Interoperability with other blockchains",
+          "details": {
+            "IntegrationCapabilities": "Assess the ability to integrate or operate with other blockchain systems",
+            "CrossChainFunctionality": "Evaluate the effectiveness of cross-chain interactions and transactions"
+          }
+        }
+      }
+    },
+    "LegalComplianceAndSecurity": {
+      "overallScore": 0,
+      "criteria": {
+        "AdherenceToRegulatoryStandards": {
+          "score": 0,
+          "description": "Adherence to regulatory standards in target markets",
+          "details": {
+            "CompliancePolicies": "Review the project's compliance policies and procedures",
+            "RegulatoryEngagement": "Assess the engagement and communication with regulatory bodies"
+          }
+        },
+        "SecurityMeasures": {
+          "score": 0,
+          "description": "Robust security measures and audits (smart contract audits, penetration tests)",
+          "details": {
+            "AuditHistory": "Evaluate the history and results of security audits",
+            "SecurityPractices": "Assess the overall security practices and protocols in place"
+          }
+        },
+        "WebsiteSecurity": {
+          "score": 0,
+          "description": "Security of the project's website",
+          "details": {
+            "SSL/TLSImplementation": "Check for SSL/TLS implementation for secure connections",
+            "VulnerabilityAssessments": "Assess the frequency and thoroughness of website vulnerability assessments"
+          }
+        }
+      }
+    },
+    "CommunityEngagementAndGrowth": {
+      "overallScore": 0,
+      "criteria": {
+        "ActiveAndGrowingCommunity": {
+          "score": 0,
+          "description": "Active and growing community (social media, forums, etc.)",
+          "details": {
+            "CommunityActivityLevel": "Evaluate the level of activity and engagement in the community",
+            "GrowthTrends": "Analyze trends in community growth and engagement over time"
+          }
+        },
+        "TransparencyAndCommunication": {
+          "score": 0,
+          "description": "Transparency and frequency of communication from the team",
+          "details": {
+            "CommunicationFrequency": "Assess how frequently the team communicates with the community",
+            "OpennessAndClarity": "Evaluate the openness and clarity of the team's communication"
+          }
+        }
+      }
+    },
+    "TokenomicsAndUtility": {
+      "overallScore": 0,
+      "criteria": {
+        "ClearUtilityAndValueProposition": {
+          "score": 0,
+          "description": "Clear utility and value proposition of the token",
+          "details": {
+            "TokenFunctionality": "Evaluate the functional role of the token within the project",
+            "ValueToUsers": "Assess how the token provides value to its users or stakeholders"
+          }
+        },
+        "EconomicModel": {
+          "score": 0,
+          "description": "Sustainable economic model (inflation rate, staking rewards, etc.)",
+          "details": {
+            "InflationImpact": "Analyze the impact of the token's inflation rate on its value",
+            "RewardMechanisms": "Evaluate the mechanisms for staking or earning rewards and their sustainability"
+          }
+        },
+        "TokenDistribution": {
+          "score": 0,
+          "description": "Equitable and strategic token distribution",
+          "details": {
+            "DistributionStrategy": "Review the strategy for distributing the tokens (e.g., ICO, airdrops, etc.)",
+            "HolderDiversity": "Assess the diversity of token holders to gauge decentralization and distribution fairness"
+          }
+        }
+      }
+    },
+    "RoadmapAndDevelopmentProgress": {
+      "overallScore": 0,
+      "criteria": {
+        "RealisticAndClearRoadmap": {
+          "score": 0,
+          "description": "Realistic and clear roadmap with milestones",
+          "details": {
+            "MilestoneClarity": "Assess the clarity and specificity of the roadmap milestones",
+            "Feasibility": "Evaluate the feasibility and achievability of the outlined goals"
+          }
+        },
+        "MeetingDeadlines": {
+          "score": 0,
+          "description": "History of meeting deadlines and delivering on promises",
+          "details": {
+            "TrackRecord": "Review the project's track record in meeting its previous deadlines",
+            "DeliveryConsistency": "Assess the consistency and reliability in delivering promised features or developments"
+          }
+        },
+        "ProgressUpdates": {
+          "score": 0,
+          "description": "Frequency and quality of progress updates",
+          "details": {
+            "CommunicationFrequency": "Evaluate how often the team provides updates about the project's progress",
+            "UpdateQuality": "Assess the comprehensiveness and transparency of the progress updates"
+          }
+        }
+      }
+    },
+    "PartnershipsAndEcosystem": {
+      "overallScore": 0,
+      "criteria": {
+        "StrategicPartnerships": {
+          "score": 0,
+          "description": "Strategic partnerships that add value to the project",
+          "details": {
+            "PartnershipSynergy": "Evaluate the synergy between the project and its partners",
+            "ValueAddition": "Assess how the partnerships contribute to the project's value and objectives"
+          }
+        },
+        "EcosystemIntegration": {
+          "score": 0,
+          "description": "Involvement in a broader ecosystem (e.g., DeFi, NFTs)",
+          "details": {
+            "EcosystemRole": "Analyze the role and impact of the project within its broader ecosystem",
+            "CollaborativeInitiatives": "Assess the project's collaborative initiatives within the ecosystem"
+          }
+        }
+      }
+    },
+    "UserExperienceAndAdoption": {
+      "overallScore": 0,
+      "criteria": {
+        "EaseOfUseAndAccessibility": {
+          "score": 0,
+          "description": "Ease of use and accessibility of the product",
+          "details": {
+            "UserInterfaceDesign": "Evaluate the intuitiveness and clarity of the user interface",
+            "AccessibilityFeatures": "Assess the availability of accessibility features for diverse users"
+          }
+        },
+        "AdoptionIndicators": {
+          "score": 0,
+          "description": "Signs of adoption or interest from target users",
+          "details": {
+            "UserGrowthRate": "Analyze the rate of growth in the user base",
+            "MarketFeedback": "Evaluate feedback and reviews from users in the target market"
+          }
+        }
+      }
+    },
+    "LiquidityAndExchangeListings": {
+      "overallScore": 0,
+      "criteria": {
+        "AvailabilityOnMajorExchanges": {
+          "score": 0,
+          "description": "Availability on major and reputable exchanges",
+          "details": {
+            "ExchangeDiversity": "Assess the range and reputation of exchanges listing the token",
+            "EaseOfTrading": "Evaluate how easy it is for users to trade the token on these exchanges"
+          }
+        },
+        "TradingVolumeAndLiquidity": {
+          "score": 0,
+          "description": "Healthy liquidity levels for trading",
+          "details": {
+            "VolumeConsistency": "Review the consistency of trading volume over time",
+            "MarketDepth": "Assess the market depth to gauge liquidity"
+          }
+        }
+      }
+    },
+    "TransparencyAndReporting": {
+      "overallScore": 0,
+      "criteria": {
+        "RegularUpdatesAndFinancialReports": {
+          "score": 0,
+          "description": "Regular updates and financial reports",
+          "details": {
+            "UpdateFrequency": "Evaluate the frequency of project updates and reports",
+            "DetailLevel": "Assess the level of detail and transparency in reports"
+          }
+        },
+        "OpennessAboutChallenges": {
+          "score": 0,
+          "description": "Openness about challenges and setbacks",
+          "details": {
+            "CommunicationCandor": "Review how openly the team communicates about challenges",
+            "ProblemResolution": "Assess the team's approach to addressing and resolving issues"
+          }
+        }
+      }
+    }
+  }
+}

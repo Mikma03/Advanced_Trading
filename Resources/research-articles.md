@@ -1,5 +1,7 @@
 # Article related to algo trading
 
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501707
+
 - Stock Price Forecasting by a Deep Convolutional Generative Adversarial Network
 
   - https://www.frontiersin.org/articles/10.3389/frai.2022.837596/full

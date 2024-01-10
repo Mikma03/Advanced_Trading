@@ -9,7 +9,9 @@
   - [Reinforcement Learning: General](#reinforcement-learning-general)
   - [Stochastic Calculus](#stochastic-calculus)
   - [Derivatives](#derivatives)
+- [Recomendations](#recomendations)
 
+<!-- /TOC -->
 <!-- /TOC -->
 
 # Books for quant trading and beyond
@@ -115,4 +117,9 @@ Stochastic Calculus for Finance II
 
 - Applied Quantitative Finance for Equity Derivatives
   - https://www.amazon.pl/Applied-Quantitative-Finance-Equity-Derivatives/dp/B08VCM9HBL/ref=d_pd_sim_sccl_2_2/261-2671117-0029711?pd_rd_w=ODNaE&content-id=amzn1.sym.327c2c2a-9f0d-4615-aec2-10497a8a1e1a&pf_rd_p=327c2c2a-9f0d-4615-aec2-10497a8a1e1a&pf_rd_r=394TDFCM28SM6T98JA4F&pd_rd_wg=AJkqc&pd_rd_r=039ee83f-3955-4950-aa28-d51231703499&pd_rd_i=B08VCM9HBL&psc=1
+
+# Recomendations
+
+- https://www.youtube.com/watch?v=ftFptCxm5ZU
+
 
