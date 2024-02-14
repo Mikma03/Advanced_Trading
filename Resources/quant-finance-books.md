@@ -10,8 +10,8 @@
   - [Stochastic Calculus](#stochastic-calculus)
   - [Derivatives](#derivatives)
 - [Recomendations](#recomendations)
+- [All books](#all-books)
 
-<!-- /TOC -->
 <!-- /TOC -->
 
 # Books for quant trading and beyond
@@ -56,15 +56,19 @@
   - https://www.wiley.com/en-ie/Big+Data+and+Machine+Learning+in+Quantitative+Investment-p-9781119522195#content-section
 
 - Machine Learning for Financial Risk Management with Python
+
   - https://learning.oreilly.com/library/view/machine-learning-for/9781492085249/
 
 - Machine Learning for Factor Investing
+
   - https://www.amazon.com/Machine-Learning-Investing-Financial-Mathematics/dp/0367639726/ref=sr_1_3?crid=16RQIYJ32KDSJ&keywords=Tony+Guida&qid=1699969822&sprefix=tony+guida%2Caps%2C199&sr=8-3
 
 - Probabilistic Machine Learning for Finance and Investing
+
   - https://www.amazon.com/Probabilistic-Machine-Learning-Finance-Investing/dp/1492097675/ref=sr_1_4?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-4
 
 - Quantitative Asset Management
+
   - https://www.amazon.com/Quantitative-Asset-Management-Investing-Institutional/dp/1264258445/ref=sr_1_2_sspa?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
 - Advances in Financial Machine Learning
@@ -94,6 +98,7 @@
 ## Reinforcement Learning: General
 
 - Reinforcement Learning: An Introduction: Theory
+
   - http://incompleteideas.net/book/the-book-2nd.html
 
 - Mastering Reinforcement Learning with Python
@@ -122,4 +127,5 @@ Stochastic Calculus for Finance II
 
 - https://www.youtube.com/watch?v=ftFptCxm5ZU
 
-
+# All books
+- https://pyquantnews.com/46-books-quant-finance-algo-trading-market-data/

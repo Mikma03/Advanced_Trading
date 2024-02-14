@@ -12,3 +12,7 @@
 
 - Time Series Forecasting in Python
   - https://www.amazon.com/Time-Forecasting-Python-Marco-Peixeiro/dp/161729988X/ref=sr_1_22_sspa?crid=ZFVAFP84PX1P&keywords=Reinforcement+Learning+Python&qid=1697146788&sprefix=reinforcement+learning+python%2Caps%2C200&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1
+
+
+- Analysis of Financial Time Series
+  - https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359?crid=1IQX62W3EFBN2&keywords=tsay&qid=1702760883&s=books&sprefix=tray,stripbooks,110&sr=1-1&ufe=app_do:amzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d&linkCode=sl1&tag=fancyquant-20&linkId=b8dadf6ddaa86672d571936741c94971&language=en_US&ref_=as_li_ss_tl
