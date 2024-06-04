@@ -11,6 +11,7 @@
   - [Derivatives](#derivatives)
 - [Recomendations](#recomendations)
 - [All books](#all-books)
+- [Quantitative Momentum](#quantitative-momentum)
 
 <!-- /TOC -->
 
@@ -129,3 +130,6 @@ Stochastic Calculus for Finance II
 
 # All books
 - https://pyquantnews.com/46-books-quant-finance-algo-trading-market-data/
+
+# Quantitative Momentum
+- https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X

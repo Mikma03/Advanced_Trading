@@ -27,9 +27,3 @@ AWS Cognito:
 
 Data ingestion with AWS Glue:
 - https://learning.oreilly.com/library/view/serverless-etl-and/9781800564985/B16741_03_ePub.xhtml
-
-
-# Solution explanation
-
-## Data ingestion
-

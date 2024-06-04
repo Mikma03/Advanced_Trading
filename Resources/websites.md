@@ -12,3 +12,6 @@
 
 - Financioneroncios
   - https://financioneroncios.wordpress.com/
+
+- Awesome quants
+  - https://wilsonfreitas.github.io/awesome-quant/#python

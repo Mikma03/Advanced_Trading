@@ -74,3 +74,7 @@
 - https://medium.com/@nasdag/tide-revolutionizing-long-term-time-series-forecasting-with-simple-mlp-architectures-21259cbe575b
 
 - https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a
+
+# Portfolio optimization
+
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4709317

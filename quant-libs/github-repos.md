@@ -37,5 +37,3 @@
 
 - FinGPT
   - https://github.com/AI4Finance-Foundation/FinGPT
-
-
