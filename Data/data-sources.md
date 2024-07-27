@@ -31,6 +31,9 @@
 - Edgar
   - https://www.sec.gov/edgar/search-and-access
 
+- Ortex
+  - https://public.ortex.com/
+
 ___
 
 ## yfinance

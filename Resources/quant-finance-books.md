@@ -1,23 +1,4 @@
-<!-- TOC -->
-
-- [Books for quant trading and beyond](#books-for-quant-trading-and-beyond)
-  - [Pure mathematics and probability](#pure-mathematics-and-probability)
-  - [Deep Learning: General](#deep-learning-general)
-  - [Machine Learning](#machine-learning)
-  - [Python \& quant-finance](#python--quant-finance)
-  - [Reinforcement Learning in Finance](#reinforcement-learning-in-finance)
-  - [Reinforcement Learning: General](#reinforcement-learning-general)
-  - [Stochastic Calculus](#stochastic-calculus)
-  - [Derivatives](#derivatives)
-- [Recomendations](#recomendations)
-- [All books](#all-books)
-- [Quantitative Momentum](#quantitative-momentum)
-
-<!-- /TOC -->
-
-# Books for quant trading and beyond
-
-## Pure mathematics and probability
+# Mathematics & Probability & Stochastic
 
 - Mathematical Modeling and Computation in Finance
 
@@ -26,16 +7,66 @@
   - GitHub:
     - https://github.com/LechGrzelak/Computational-Finance-Course
 
-- Springer Finance: Book series
-  - https://www.springer.com/series/3674/books
+- Stochastic Calculus for Finance I
 
-## Deep Learning: General
+  - https://www.amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680
 
-- Dive into Deep Learning
+- Stochastic Calculus for Finance II
 
-  - https://d2l.ai/chapter_preface/index.html
+  - https://www.amazon.com/Stochastic-Calculus-Finance-II-Continuous-Time/dp/0387401016
 
-## Machine Learning
+- Introduction to Stochastic Finance
+
+  - https://www.amazon.com/gp/product/B0BMWNVZW9?ref_=dbs_m_mng_rwt_calw_tkin_56&storeType=ebooks&qid=1707859709&sr=8-3
+
+- Introductory Mathematical Analysis for Quantitative Finance
+
+  - https://www.amazon.com/gp/product/081537254X?ref_=dbs_m_mng_rwt_calw_thcv_46&storeType=ebooks&qid=1707859709&sr=8-3
+
+# Machine Learning
+
+- Python for Finance Cookbook
+  - https://www.amazon.com/Python-Finance-Cookbook-effective-financial/dp/1803243198
+
+- Deep Learning for Finance
+
+  - https://learning.oreilly.com/library/view/deep-learning-for/9781098148386/
+
+- Deep Learning in Quantitative Finance
+
+  - https://www.amazon.com/Deep-Learning-Quantitative-Finance-Wiley/dp/1119685249
+
+- Quantitative Finance with Python
+
+  - https://www.amazon.com/Quantitative-Finance-Python-Engineering-Mathematics/dp/1032014431/
+
+- A First Course in Quantitative Finance
+
+  - https://www.amazon.com/First-Course-Quantitative-Finance/dp/1108411436
+
+- Algorithmic Trading and Quantitative Strategies
+
+  - https://www.amazon.com/Algorithmic-Quantitative-Strategies-Financial-Mathematics/dp/1498737161
+
+- Algorithmic Trading: A Practitioner's Guide
+
+  - https://www.amazon.com/Algorithmic-Trading-Practitioners-Jeffrey-Bacidore/dp/0578715236
+
+- Algorithmic Trading with Python
+
+  - https://www.amazon.com/dp/B086Y6H6YG
+
+- Machine Learning and Data Sciences for Financial Markets
+
+  - https://www.amazon.com/Machine-Learning-Sciences-Financial-Markets/dp/1316516199
+
+- Artificial Intelligence for Financial Markets
+
+  - https://link.springer.com/book/10.1007/978-3-030-97319-3
+
+- Implementing Machine Learning for Finance
+
+  - https://link.springer.com/book/10.1007/978-1-4842-7110-0
 
 - Machine Learning in Finance
 
@@ -60,22 +91,186 @@
 
   - https://learning.oreilly.com/library/view/machine-learning-for/9781492085249/
 
-- Machine Learning for Factor Investing
-
-  - https://www.amazon.com/Machine-Learning-Investing-Financial-Mathematics/dp/0367639726/ref=sr_1_3?crid=16RQIYJ32KDSJ&keywords=Tony+Guida&qid=1699969822&sprefix=tony+guida%2Caps%2C199&sr=8-3
-
 - Probabilistic Machine Learning for Finance and Investing
 
-  - https://www.amazon.com/Probabilistic-Machine-Learning-Finance-Investing/dp/1492097675/ref=sr_1_4?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-4
+  - https://www.amazon.com/Probabilistic-Machine-Learning-Finance-Investing/dp/1492097675/
 
 - Quantitative Asset Management
 
-  - https://www.amazon.com/Quantitative-Asset-Management-Investing-Institutional/dp/1264258445/ref=sr_1_2_sspa?crid=2G7QF7GHTHHN9&keywords=Machine+Learning+Investing&qid=1699969989&sprefix=machine+learning+investing%2Caps%2C195&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+  - https://www.amazon.com/Quantitative-Asset-Management-Investing-Institutional/dp/1264258445/
 
 - Advances in Financial Machine Learning
-  - https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1699969989&sr=8-10
 
-## Python & quant-finance
+  - https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/
+
+- Deep Learning for Finance: Creating Machine & Deep Learning Models for Trading in Python
+
+  - https://www.amazon.com/Deep-Learning-Finance-Creating-Machine/dp/1098148398
+
+- Mastering Financial Pattern Recognition: Finding and Back-Testing Candlestick Patterns with Python
+  - https://www.amazon.com/Mastering-Financial-Pattern-Recognition-Back-Testing/dp/1098120477
+
+# Reinforcement Learning in Finance
+
+- Foundations of Reinforcement Learning with
+  Applications in Finance
+
+  - Book:
+    - https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf
+  - GitHub:
+    - https://github.com/TikhonJelvis/RL-book/tree/master
+  - WebPage:
+    - https://web.stanford.edu/class/cme241/
+
+- Reinforcement Learning for Finance
+  - https://www.amazon.com/Reinforcement-Learning-Finance-Python-based-Introduction/dp/109816914X
+
+# Derivatives - general
+
+- Applied Quantitative Finance for Equity Derivatives
+
+  - https://www.amazon.pl/Applied-Quantitative-Finance-Equity-Derivatives/dp/B08VCM9HBL
+
+- Introduction to Financial Derivatives with Python
+  - https://www.amazon.com/Introduction-Financial-Derivatives-Chapman-Mathematics-ebook/dp/B0BM3PVZXV/
+
+# Momentum & Factor
+
+- Quantitative Momentum
+
+  - https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X
+
+- Machine Learning for Factor Investing
+
+  - https://www.amazon.com/Machine-Learning-Investing-Financial-Mathematics/dp/0367639726/
+
+# Market Microstructure
+
+- Trading and Exchanges
+
+  - https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0198090544
+
+- Handbook of Price Impact Modeling
+  - https://www.amazon.com/Handbook-Modeling-Chapman-Financial-Mathematics/dp/1032328223
+
+# Volatility & Liquidity
+
+- Volatility and Correlation
+
+  - https://www.amazon.com/Volatility-Correlation-Perfect-Hedger-Fox/dp/0470091398
+
+- Stochastic Volatility Modeling
+
+  - https://www.amazon.com/Stochastic-Volatility-Modeling-Financial-Mathematics/dp/1482244063/
+
+- The Volatility Surface
+
+  - https://www.amazon.com/Volatility-Surface-Practitioners-Guide/dp/0471792519/
+
+- Volatility Trading
+
+  - https://www.amazon.com/Volatility-Trading-Website-Euan-Sinclair/dp/1118347137
+
+- The Volatility Smile
+
+  - https://www.amazon.com/Volatility-Smile-Wiley-Finance/dp/1118959167/
+
+- Unperturbed By Volatility
+
+  - https://www.amazon.com/Unperturbed-Volatility-Practitioners-Guide-Risk/dp/1791983537
+
+- Volatility and Correlation
+
+  - ttps://www.amazon.com/Volatility-Correlation-Perfect-Hedger-Fox/dp/0470091398
+
+- The Financial Mathematics of Market Liquidity
+  - https://www.amazon.com/Financial-Mathematics-Market-Liquidity-Execution/dp/1498725473
+
+# Time Series Analysis
+
+- Modern Time Series Forecasting with Python
+
+  - https://www.amazon.com/Modern-Time-Forecasting-Python-industry-ready/dp/1803246804/
+
+- Time Series Analysis with Python Cookbook
+
+  - https://www.amazon.com/Time-Analysis-Python-Cookbook-exploratory/dp/1801075549/
+
+- Machine Learning for Time Series:
+
+  - https://www.amazon.com/Machine-Learning-Time-state-art/dp/1837631336/
+
+- Forecasting Time Series Data with Facebook Prophet
+
+  - https://www.amazon.pl/Forecasting-Time-Data-Prophet-forecasting-dp-1837630410/dp/1837630410/
+
+- Time Series Forecasting in Python
+
+  - https://www.amazon.com/Time-Forecasting-Python-Marco-Peixeiro/dp/161729988X/
+
+- Analysis of Financial Time Series
+
+  - https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359
+
+- Deep Learning for Time Series Cookbook
+  - https://www.amazon.com/Deep-Learning-Time-Data-Cookbook/dp/1805129236/
+
+- Multivariate Time Series Analysis and Applications
+  - https://learning.oreilly.com/library/view/multivariate-time-series/9781119502852/
+
+# Data engineering in finance
+
+- Financial Data Engineering
+  - https://learning.oreilly.com/library/view/financial-data-engineering/9781098159986/
+
+# Options
+
+- Winning With Options Trading
+
+  - https://www.amazon.com/dp/B0BW27PC5M/
+
+- Options Elite: Algorithmic Trading
+  - https://www.amazon.com/Options-Elite-Algorithmic-Trading-Python/dp/B0CRP2X4S1
+
+- Option Volatility and Pricing
+  - https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774
+
+# Futures
+
+- Following the Trend: Diversified Managed Futures Trading
+
+  - https://www.amazon.com/Following-Trend-Diversified-Managed-Futures-dp-1119908981/dp/1119908981/ref=dp_ob_title_bk
+
+- Advanced Futures Trading Strategies
+  - https://www.amazon.com/Advanced-Futures-Trading-Strategies-Robert/dp/0857199684
+
+# Information theory
+
+- Financial Informatics
+  - https://www.amazon.com/Financial-Informatics-Information-Based-Approach-Pricing/dp/9811246483/
+
+# Interest Rate
+
+- Interest Rate Models - Theory and Practice
+  - https://www.amazon.com/Interest-Rate-Models-Practice-Inflation/dp/3540221492
+
+# Portfolio Management
+
+- Advanced Portfolio Management
+  - https://www.amazon.com/Advanced-Portfolio-Management-Fundamental-Investors/dp/1119789796
+
+# Commodities
+
+- Virtual Barrels: Quantitative Trading in the Oil Market
+  - https://www.amazon.com/Virtual-Barrels-Quantitative-Springer-Economics/dp/3031361504
+
+# Books series
+
+- Springer Finance: Book series
+
+  - https://www.springer.com/series/3674/books
+
+# Recommended
 
 - Python for quant finance books: YVES J HILPISCH
 
@@ -85,51 +280,6 @@
 
   - https://learning.oreilly.com/search/?q=author%3A%22Ernest%20P.%20Chan%22&type=*&order_by=relevance&rows=10
 
-## Reinforcement Learning in Finance
+- 46 awesome books for quant finance
 
-- Foundations of Reinforcement Learning with
-  Applications in Finance
-  - Book:
-    - https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf
-  - GitHub:
-    - https://github.com/TikhonJelvis/RL-book/tree/master
-  - WebPage:
-    - https://web.stanford.edu/class/cme241/
-
-## Reinforcement Learning: General
-
-- Reinforcement Learning: An Introduction: Theory
-
-  - http://incompleteideas.net/book/the-book-2nd.html
-
-- Mastering Reinforcement Learning with Python
-
-  - https://learning.oreilly.com/library/view/mastering-reinforcement-learning/9781838644147/
-
-- Deep Reinforcement Learning Hands-On
-
-  - https://learning.oreilly.com/library/view/deep-reinforcement-learning/9781838826994/
-
-- Grokking Deep Reinforcement Learning
-  - https://learning.oreilly.com/library/view/grokking-deep-reinforcement/9781617295454/
-
-## Stochastic Calculus
-
-Stochastic Calculus for Finance I
-
-Stochastic Calculus for Finance II
-
-## Derivatives
-
-- Applied Quantitative Finance for Equity Derivatives
-  - https://www.amazon.pl/Applied-Quantitative-Finance-Equity-Derivatives/dp/B08VCM9HBL/ref=d_pd_sim_sccl_2_2/261-2671117-0029711?pd_rd_w=ODNaE&content-id=amzn1.sym.327c2c2a-9f0d-4615-aec2-10497a8a1e1a&pf_rd_p=327c2c2a-9f0d-4615-aec2-10497a8a1e1a&pf_rd_r=394TDFCM28SM6T98JA4F&pd_rd_wg=AJkqc&pd_rd_r=039ee83f-3955-4950-aa28-d51231703499&pd_rd_i=B08VCM9HBL&psc=1
-
-# Recomendations
-
-- https://www.youtube.com/watch?v=ftFptCxm5ZU
-
-# All books
-- https://pyquantnews.com/46-books-quant-finance-algo-trading-market-data/
-
-# Quantitative Momentum
-- https://www.amazon.com/Quantitative-Momentum-Practitioners-Momentum-Based-Selection/dp/111923719X
+  - https://pyquantnews.com/46-books-quant-finance-algo-trading-market-data/
